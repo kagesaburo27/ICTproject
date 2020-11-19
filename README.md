@@ -2,4 +2,4 @@
 ## Personal Diet Service Database
 ### There is a code for creating the tables and the main ERD with all entities
 ### By Kadyrbergenova Nuraiym and Abdrakhmanova Nurgul
-![diet_service_ERD](https://user-images.githubusercontent.com/70998876/98832233-c678c600-2466-11eb-98e1-8c7ca2cb81df.png)
+![final](https://user-images.githubusercontent.com/70998876/99687624-1121c000-2aaf-11eb-91b6-3d27a85745b1.png)
